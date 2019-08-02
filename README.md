@@ -5,3 +5,4 @@
 - styled-components
 - ESLint
 - Prettier
+- React
