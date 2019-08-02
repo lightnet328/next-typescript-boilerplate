@@ -11,10 +11,12 @@ const Root = styled.div`
 `
 
 function Home(): JSX.Element {
-  return <>
-    <Normalize />
-    <Root>Welcome to Next.js!</Root>
-  </>
+  return (
+    <>
+      <Normalize />
+      <Root>Welcome to Next.js!</Root>
+    </>
+  )
 }
 
 export default Home
