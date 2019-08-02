@@ -18,11 +18,11 @@
   "dependencies": {
     "@types/react": "^16.8.18",
     "@types/react-dom": "^16.8.4",
-    "@types/styled-components": "^4.1.15",
+    "@types/styled-components": "^4.1.18",
     "next": "^9.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "styled-components": "^4.2.0",
+    "styled-components": "^4.3.2",
     "styled-normalize": "^8.0.6"
   },
   "devDependencies": {
