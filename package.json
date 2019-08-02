@@ -26,6 +26,7 @@
     "styled-normalize": "^8.0.6"
   },
   "devDependencies": {
+    "@types/node": "^12.6.9",
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
     "babel-plugin-styled-components": "^1.10.0",
@@ -40,6 +41,6 @@
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-standard": "^4.0.0",
     "prettier": "^1.18.2",
-    "typescript": "^3.4.5"
+    "typescript": "^3.5.3"
   }
 }
